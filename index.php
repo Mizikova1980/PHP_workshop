@@ -10,10 +10,12 @@
 <?php
 
 //require 'src/ws1.php';
-require 'src/functions.php';
+//require 'src/functions.php';
+require 'src/functions2.php';
+//require 'src/ws4.php';
 
 
-echo task1(['Привет', ',', 'Вася', '!', 'Как дела?'], true);
+/*echo task1(['Привет', ',', 'Вася', '!', 'Как дела?'], true);
 echo task1(['Привет', ',', 'Вася', '!', 'Как дела?']);
 echo task2('/', 1, 2, 3, 5.2);
 echo task3(5, 3);
@@ -27,8 +29,10 @@ echo task6('Две', 'Три', 'Две бутылки лимонада');
 echo '<br>';
 echo task7('text.txt', 'Hello again!');
 echo '<br>';
-echo task8('text.txt');
+echo task8('text.txt');*/
 
+echo task1();
+echo task2();
 
 ?>
 </body>
