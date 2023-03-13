@@ -12,7 +12,7 @@
 //require 'src/ws1.php';
 //require 'src/functions.php';
 require 'src/functions2.php';
-//require 'src/ws4.php';
+require 'src/ws4.php';
 
 
 /*echo task1(['Привет', ',', 'Вася', '!', 'Как дела?'], true);
